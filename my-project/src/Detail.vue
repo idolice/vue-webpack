@@ -1,3 +1,7 @@
-<div>
-  hi
-</div>
+
+
+<template>
+ <div>
+   hi
+ </div>
+</template>

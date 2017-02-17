@@ -1,14 +1,6 @@
 <template>
   <div id="app">
-    <h1></h1>
-    <h2>List</h2>
-    <ul>
-      <li><a href="https://vuejs.org" target="_blank">1</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank">2</a></li>
-      <li><a href="https://gitter.im/vuejs/vue" target="_blank">3</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank">4</a></li>
-    </ul>
-
+    <router-view class="view"></router-view>
   </div>
 </template>
 
